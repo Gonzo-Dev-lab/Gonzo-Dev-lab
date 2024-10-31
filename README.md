@@ -21,6 +21,9 @@
 
 # Git
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzo-Dev-lab&layout=compact)](https://github.com/Gonzo-Dev-lab/github-readme-stats)
+
  
 
 <!---
